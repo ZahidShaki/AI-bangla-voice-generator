@@ -1,0 +1,6 @@
+{
+  "name": "12s Bangla Voiceover Studio",
+  "description": "Generate, customize, and export a dramatic 12-second Bengali voiceover using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
